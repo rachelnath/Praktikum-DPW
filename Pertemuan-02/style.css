@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(150, 150, 241);
+}
+h4 {
+    color: darkgreen;
+}
+/*h2.header {
+    color: greenyellow;
+}*/
+.header {
+    font-size: 50px;
+}
+.paragraf {
+    font-size: 20px;
+    color: aqua;
+}
+p strong {
+    color: red;
+}
+p strong.bold {
+    color: black;
+}
+.uppercase {
+    /*text-transform: uppercase;*/
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px purple;
+    color: wheat;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+ul li {
+    color: antiquewhite;
+    font-size: 30px;
+}
+ul h5 {
+    color: black;
+    font-size: 25px;
+}
